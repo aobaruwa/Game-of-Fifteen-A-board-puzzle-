@@ -2,7 +2,7 @@
 
 fifteen.c : a board puzzle with variable dimensions
 ```javascript
-~/workspace/pset3/ (master) $ ./fifteen 4
+~/workspace/(master) $ ./fifteen 4
 
 15 14 13 12
 
